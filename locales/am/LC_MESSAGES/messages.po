@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LLSample-Telegram-Bots\n"
+"PO-Revision-Date: 2025-11-29 12:00+0000\n"
+"Last-Translator: YOU <you@example.com>\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# NOTE: Example translations below. Please verify with a native speaker.
+msgid "Welcome!"
+msgstr "እንኳን ደህና መጣህ!" # VERIFY TRANSLATION
+
+msgid "Use /help to see available commands."
+msgstr "የሚገኙ ትእዛዞችን ለማየት /help ይጠቀሙ."
+
+msgid "Language set to {language}."
+msgstr "ቋንቋ ወደ {language} ተቀይሯል."
+
+msgid "Please choose a language:"
+msgstr "እባክዎ ቋንቋ ይምረጡ:"
+
+msgid "Hello, {name}!"
+msgstr "ሰላም {name}!"

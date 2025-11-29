@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LLSample-Telegram-Bots\n"
+"PO-Revision-Date: 2025-11-29 12:00+0000\n"
+"Last-Translator: You <you@example.com>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Welcome message
+msgid "Welcome!"
+msgstr "Welcome!"
+
+# Help message
+msgid "Use /help to see available commands."
+msgstr "Use /help to see available commands."
+
+# Language set confirmation with placeholder
+msgid "Language set to {language}."
+msgstr "Language set to {language}."
+
+# Prompt to choose language
+msgid "Please choose a language:"
+msgstr "Please choose a language:"
+
+# Greeting with name
+msgid "Hello, {name}!"
+msgstr "Hello, {name}!"

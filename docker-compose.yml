@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  bot:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./locales:/app/locales:ro
+    restart: unless-stopped
+    # Override command if your bot file/module is named differently
+    # command: python -u bot_example.py
